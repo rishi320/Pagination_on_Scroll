@@ -1,0 +1,14 @@
+.card{
+ width: 100%;
+ height: 80%;
+}
+
+.card-image{
+    width: 100% ;
+    height: 80%;
+    object-fit: contain;
+}
+
+.card-text{
+    text-align: center;
+}
